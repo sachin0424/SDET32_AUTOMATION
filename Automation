@@ -1,0 +1,6 @@
+class{
+@Test
+public void orgcreate(){
+system.out.println("org created");
+}
+}
